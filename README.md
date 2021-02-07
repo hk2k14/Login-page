@@ -38,6 +38,10 @@ A Simple Responsive Login Page which stores and retrives login data from MySql d
 
 
 🛠-**Build With**
-*HTML,CSS,JS
-*JSP,JSTL
-*MYSQL.
+* HTML,CSS,JS
+
+
+* JSP,JSTL
+
+
+* MYSQL.
